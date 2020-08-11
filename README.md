@@ -1,7 +1,7 @@
 # Hi there! I am Somyajit Chakraborty 😄
 
 ![Banner](https://github.com/Samsomyajit/Samsomyajit/blob/master/Pictures/dr.jpg)
-UG-Student at Techno India University, Department of Computer Science and Engineering. Researcher/Developer on topics like Network Science, Computational Mathematics, Speech Synthesis, Artificial Intelligence, Cognition, Natural Language Processing, and Quantum Computing (hopefully in the future). I am also the Research and Development Manager and the Chief Technical Officer(CTO) at Bread and Code.//
+UG-Student at Techno India University, Department of Computer Science and Engineering. Researcher/Developer on topics like Network Science, Computational Mathematics, Speech Synthesis, Artificial Intelligence, Cognition, Natural Language Processing, and Quantum Computing (hopefully in the future). I am also the Research and Development Manager and the Chief Technical Officer(CTO) at Bread and Code.<br>
 > My Motto: _Acta non Verba_
 
 <img src="https://github.com/Samsomyajit/Samsomyajit/blob/master/Pictures/math_proof_slider-3_2.gif" alt="gif" width="480" height="145"/>
