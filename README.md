@@ -32,7 +32,7 @@ UG-Student at Techno India University, Department of Computer Science and Engine
 [<img align="left" src="https://image.flaticon.com/icons/png/512/23/23931.png" width="22px"/>](https://twitter.com/Samsomyajit)
 [<img align="left" src="https://image.flaticon.com/icons/svg/123/123717.svg" width="22px"/>](https://www.facebook.com/Somyajitchakrabortysam)
 [<img align="left" src="https://image.flaticon.com/icons/svg/49/49500.svg" width="22px"/>](https://www.researchgate.net/profile/Somyajit_Chakraborty)
-[<img align="left" src="https://image.flaticon.com/icons/png/512/95/95627.png" width="22px"/>](somyajit.ch@breadandcode.online)
+[<img align="left" src="https://image.flaticon.com/icons/png/512/95/95627.png" width="22px"/>](somyajit.ch@breadandcode.tech)
 
 <!--
 **Samsomyajit/Samsomyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
