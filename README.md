@@ -9,7 +9,7 @@ UG-Student at Techno India University, Department of Computer Science and Engine
 - **_Researcher_** 💻
 - **_Programmer_** 🖥
 - **_Open Source Contributor_**
-### Currently Working as a R&D Manager/CTO at Bread and Code :point_right: [Visit](https://breadandcode.online/)
+### Currently Working as a R&D Manager/CTO at Bread and Code :point_right: [Visit](https://breadandcode.tech/)
 > _There is always a pleasure in finding things out!_ - *Richard P Feynman*
 
 ### Languages and Tools:
