@@ -33,7 +33,7 @@ I am a Master's student at University College Cork, Data Science and Analytics. 
 [<img align="left" src="https://image.flaticon.com/icons/svg/123/123717.svg" width="22px"/>](https://www.facebook.com/Somyajitchakrabortysam)
 [<img align="left" src="https://image.flaticon.com/icons/svg/49/49500.svg" width="22px"/>](https://www.researchgate.net/profile/Somyajit_Chakraborty)
 [<img align="left" src="https://image.flaticon.com/icons/png/512/95/95627.png" width="22px"/>](somyajitchppr@gmail.com)
-
+<br>
 ### Current Work
 - 🔭 I’m currently working on ...
 - Academic Collaboration Networks
