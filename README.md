@@ -1,7 +1,7 @@
 # Hi there! I am Somyajit Chakraborty 😄
 
 ![Banner](https://github.com/Samsomyajit/Samsomyajit/blob/master/Pictures/dr.jpg)
-UG-Student at Techno India University, Department of Computer Science and Engineering. Researcher/Developer on topics like Network Science, Computational Mathematics, Speech Synthesis, Artificial Intelligence, Cognition, Natural Language Processing, and Quantum Computing (hopefully in the future). I am also the Research and Development Manager and the Chief Technical Officer(CTO) at Bread and Code.<br>
+I am a Master's student at University College Cork, Data Science and Analytics. My research interests include Machine Learning, Network Science, Computational Intelligence, Decision Making, Cognition, Optimization methods, Game Research, and Quantum Computing. I am always looking for new ideas and collaborations so feel free to connect with me anytime with any ideas you have.<br>
 > My Motto: _Acta non Verba_
 
 <img src="https://github.com/Samsomyajit/Samsomyajit/blob/master/Pictures/math_proof_slider-3_2.gif" alt="gif" width="480" height="145"/>
@@ -32,14 +32,22 @@ UG-Student at Techno India University, Department of Computer Science and Engine
 [<img align="left" src="https://image.flaticon.com/icons/png/512/23/23931.png" width="22px"/>](https://twitter.com/Samsomyajit)
 [<img align="left" src="https://image.flaticon.com/icons/svg/123/123717.svg" width="22px"/>](https://www.facebook.com/Somyajitchakrabortysam)
 [<img align="left" src="https://image.flaticon.com/icons/svg/49/49500.svg" width="22px"/>](https://www.researchgate.net/profile/Somyajit_Chakraborty)
-[<img align="left" src="https://image.flaticon.com/icons/png/512/95/95627.png" width="22px"/>](somyajit.ch@breadandcode.tech)
+[<img align="left" src="https://image.flaticon.com/icons/png/512/95/95627.png" width="22px"/>](somyajitchppr@gmail.com)
 
+### Current Work
+- 🔭 I’m currently working on ...
+- Academic Collaboration Networks
+- Stock Market Data
+- Growth in Complex Social Network Systems
+- How Networks can be used to make multilevel Deep Networks
+- Generative Neural Networks
+- Speech-text-Speech technologies
 <!--
 **Samsomyajit/Samsomyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
