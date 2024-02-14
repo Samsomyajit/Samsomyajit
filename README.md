@@ -9,7 +9,7 @@ I am a Master's student at University College Cork, Data Science and Analytics. 
 - **_Researcher_** 💻
 - **_Programmer_** 🖥
 - **_Open Source Contributor_**
-### Currently Working as a R&D Manager/CTO at Bread and Code :point_right: [Visit](https://breadandcode.tech/)
+### Currently a Master's Student at University College Cork :point_right: [Visit](https://breadandcode.tech/)
 > _There is always a pleasure in finding things out!_ - *Richard P Feynman*
 
 ### Languages and Tools:
